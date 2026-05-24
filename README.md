@@ -6,7 +6,6 @@ This repository documents my journey in:
 - Programming
 - Problem Solving
 - AI Engineering
-- Software Development
 
 ## Current Focus
 - Python
