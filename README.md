@@ -1,2 +1,18 @@
-# ai-engineering-journey
-Documenting my learning journey in AI Engineering.
+# AI Engineering Journey
+
+Hi, I'm Hemanth Balaji.
+
+This repository documents my journey in:
+- Programming
+- Problem Solving
+- AI Engineering
+- Software Development
+
+## Current Focus
+- Python
+- Git & GitHub
+- Programming Fundamentals
+- Problem Solving
+
+## Goal
+To build strong engineering skills through consistent learning and projects.
